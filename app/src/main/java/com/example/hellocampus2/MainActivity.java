@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity {
         button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                myText.setText("Dr. Angie Ceniza");
+                myText.setText("Dr. Angie M. Ceniza");
             }
         });
 
